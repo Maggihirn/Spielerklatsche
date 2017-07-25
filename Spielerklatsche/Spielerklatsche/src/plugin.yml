@@ -1,0 +1,8 @@
+name: Spielerklatsche
+author: Maggihirn
+version: 1.0
+main: de.maggi.spielerklatsche.main
+commands:
+ Spielerklatsche:
+  description: Gibt dir die Spielerklatsche!
+  usage: </Spielerklatsche>
